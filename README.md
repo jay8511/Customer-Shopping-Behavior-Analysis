@@ -1,23 +1,20 @@
-# Customer Shopping Behavior Analysis
+This project analyzes customer shopping behavior using MySQL as the data source and Power BI for data modeling and visualization. The focus is on understanding customer purchase patterns, category-wise sales performance, and overall business KPIs through an interactive dashboard.
 
-## 📌 Project Overview
-This project analyzes customer purchasing behavior to identify buying patterns, popular products, and customer segmentation insights.
+Tools & Technologies:
 
-## 🛠 Tools Used
-- SQL
-- Power BI
-- Excel
+MySQL (data source)
 
-## 📊 Key Insights
-- Total customers and purchase frequency
-- Category-wise sales analysis
-- Customer segmentation based on spending
-- Monthly and yearly sales trends
+Power BI (data modeling, DAX measures, dashboard creation)
 
-## 📈 Dashboard Highlights
-- KPIs: Total Sales, Total Customers, Avg Order Value
-- Category and product performance
-- Customer segmentation visuals
+Key Insights:
 
-## ✅ Outcome
-Improved my skills in customer analytics, dashboard design, and business-focused insights.
+Total customers, total sales, and average order value
+
+Category and product-level sales analysis
+
+Customer segmentation based on spending behavior
+
+Time-based sales trends
+
+Outcome:
+Developed hands-on experience in connecting databases to Power BI, creating DAX measures, and designing business-focused dashboards for decision-making.
